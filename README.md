@@ -1,3 +1,9 @@
+<img src="https://github.com/novaytran/glass-city-nft/raw/3cae0a667b1048cb26629bf6e34df09ffd0187bd/Banner.png" alt="Glass City Banner" style="width: 100%; height: auto; margin-bottom: 2rem;" />
+
+<header>
+  <h1>Glass City – A Sci-Fi NFT Storyverse</h1>
+  <p>Discover the secrets of NeoRa. Own the story. Shape the future.</p>
+</header>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +16,7 @@
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background-color: #0e0e1b;
       color: #e0f7fa;
-    }<img src="banner.png" alt="Glass City Banner" style="width: 100%; height: auto; margin-bottom: 2rem;" />
+    }
     header {
       background: linear-gradient(90deg, #1de9b6, #00bfa5);
       color: #0e0e1b;
